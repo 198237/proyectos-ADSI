@@ -1,0 +1,80 @@
+.container{
+    
+   background-color: silver;
+   border-radius: 16px;
+   padding: 20px;
+   margin-top: 34px;
+    
+}
+#logo{
+    
+  width: 140px;
+  height: 140px;
+  border-radius: 10px;
+  transition: 4s;
+}
+#usuario:hover{
+    
+  background-color: #000;
+  color: whitesmoke;    
+  border-radius: 10px;
+  transition: 4s;
+}
+#nombre:hover{
+    
+  background-color: #000;
+  color: whitesmoke;  
+  border-radius: 10px;
+  transition: 2s;
+}
+#correo:hover{
+    
+  background-color: #000;
+  color: whitesmoke;  
+  border-radius: 10px;
+  transition: 3s;
+}
+#password:hover{
+    
+  background-color: #000;
+  color: whitesmoke;  
+  border-radius: 10px;
+  transition: 3s;
+}
+#boton{
+    
+  width: 380px;
+  height: 50px;
+  border-radius: 30px;
+  background-color: crimson;
+  transition: 1s;
+}
+#boton:hover{
+  
+  color: black;
+  background-color: #0d6efd;
+ 
+}
+
+.btn-lg{
+    border-radius: 50px;
+    padding:3px;
+    width: 250px;
+    height: 50px;
+    background-color: #17a2b8;
+    transition: 2s;
+    color: white;
+}
+.btn:hover{
+     width: 500px;
+     background-color: orangered;
+    
+}
+
+img{
+    width: 1300px;
+    height: 500px;
+    align-content: center;
+    animation: cubic-bezier;
+    
+}
